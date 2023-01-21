@@ -1,0 +1,50 @@
+tile0: r
+tile1: r
+tile2: r
+tile3: r
+tile4: r
+tile5: r
+tile6: r
+tile7: r
+tile8: r
+tile9: r
+tile10: 
+tile11: 
+tile12: 
+tile13: 
+tile14: 
+tile15: 
+tile16: 
+tile17: 
+tile18:  
+tile19:  
+tile20: r
+tile21: r
+tile22: r
+tile23: r
+tile24: r
+tile25: r
+tile26: r
+tile27: r
+tile28: r
+tile29: r
+tile30: 
+tile31: 
+tile32: 
+tile33: 
+tile34: 
+tile35: 
+tile36: 
+tile37: 
+tile38: 
+tile39: 
+tile40: r
+tile41: r
+tile42: r
+tile43: r
+tile44: r
+tile45: r
+tile46: r
+tile47: r
+tile48: r
+tile49: r
